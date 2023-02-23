@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5676457737",
+    "project_id": "fire-base-notif",
+    "storage_bucket": "fire-base-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5676457737:android:dae2a41cb521390fa2bdd8",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5676457737-kjp0arps29nh1tk44s6m3hj04mpp3cv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmWJcR4M8Af5x53qYfsFKJCbPhajkHI8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5676457737-kjp0arps29nh1tk44s6m3hj04mpp3cv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
